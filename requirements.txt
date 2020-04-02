@@ -1,0 +1,4 @@
+flask
+flask_ngrok
+ABONASR==1.0
+requests
